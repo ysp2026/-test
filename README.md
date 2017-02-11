@@ -19,7 +19,7 @@
 
 <p>劉佳維-嶺東科技大學的網站</p>
 
-<p> <a target="_blank" title="my-嶺東科大的網站" href="http://www.admin.ltu.edu.tw/Home/Index?gpid=142">
+<p> <a target="_blank" title="my-嶺東科大的網站" href="http://www.teach.ltu.edu.tw/MultiCategory/MultiCategoryFileContent?gpid=14&mid=3557&cid=3859&_query=LtuTAPortal_ProjectWeb.Models.CommonQueryModel>
 
 我的嶺東科大的網站</a> </p>
 
